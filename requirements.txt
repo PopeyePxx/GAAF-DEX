@@ -1,0 +1,11 @@
+argparse
+tqdm
+fast-pytorch-kmeans
+numpy
+matplotlib
+<<<<<<< HEAD
+opencv-python
+=======
+opencv-python
+mediapipe
+>>>>>>> 39059f6e066abab1e5b34b5fe0997586807c0c11
