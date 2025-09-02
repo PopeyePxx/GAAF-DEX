@@ -22,7 +22,7 @@ You can download the FAH from [Baidu Pan (3.23G)](https://pan.baidu.com/s/126Rma
 
 ### 3. Train and Test
 Our pretrained model can be downloaded
-  from [Google Drive](https://drive.google.com/drive/folders/1-AcTiE9Lz91bPJlp1o-ubgkxKnudohdx?usp=sharing).
+  from [Baidu Pan ](https://pan.baidu.com/s/1NlPKtQ7gQMfAoSPwRRTMbQ?pwd=rwku). The extraction code is: `rwku`.
 Run following commands to start training or testing:
 
 ```
