@@ -33,12 +33,12 @@ python test.py --data_root <PATH_TO_DATA> --model_file <PATH_TO_MODEL>
 
 ## Citation
 ```
-@article{yang2024learning,
-  title={Learning granularity-aware affordances from human-object interaction for tool-based functional grasping in dexterous robotics},
-  author={Yang, Fan and Chen, Wenrui and Yang, Kailun and Lin, Haoran and Luo, DongSheng and Tang, Conghui and Li, Zhiyong and Wang, Yaonan},
-  journal={arXiv preprint arXiv:2407.00614},
-  year={2024}
-}
+@article{yang2025learning,
+  title={Learning Granularity-Aware Affordances From Human-Object Interaction for Tool-Based Functional Dexterous Grasping},
+  author={Yang, Fan and Chen, Wenrui and Yang, Kailun and Lin, Haoran and Luo, Dongsheng and Tang, Conghui and Li, Zhiyong and Wang, Yaonan},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 ## Anckowledgement
