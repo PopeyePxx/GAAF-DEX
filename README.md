@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ### 2. Dataset
 
-You can download the FAH from [Baidu Pan (3.23G)](https://pan.baidu.com/s/1zUNe_SFPG5Ggp0ejQPXi0Q?pwd=z4am). The extraction code is: `z4am`.
+You can download the FAH from [Baidu Pan (3.23G)](https://pan.baidu.com/s/126RmaKBZG_QddX2B4Z6jnw?pwd=ip6q). The extraction code is: `ip6q`.
 
 ### 3. Train and Test
 Our pretrained model can be downloaded
